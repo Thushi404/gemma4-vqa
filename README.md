@@ -97,6 +97,5 @@ VQA Evaluation
 - Google Colab
 - NVIDIA Tesla T4
 
-## Author
 
-AI Intern — BCS Technology
+
