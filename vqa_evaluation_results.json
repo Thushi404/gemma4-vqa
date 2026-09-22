@@ -1,0 +1,608 @@
+{
+  "total_samples": 100,
+  "correct_predictions": 40,
+  "exact_match_accuracy": 40.0,
+  "evaluation_loss": 11.87114143371582,
+  "predictions": [
+    {
+      "question": "Is the ground green?",
+      "correct": "yes",
+      "prediction": "Question: Is the ground green?\nAnswer: yes\nQuestion: Is the horse hungry?\nAnswer: no\nQuestion: How many legs does",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What color of frisbee is the man holding?",
+      "correct": "none",
+      "prediction": "Question: What color of frisbee is the man holding?\nAnswer: green\n\nQuestion: How many white chairs are in the room?\nAnswer: 10",
+      "clean_prediction": "green"
+    },
+    {
+      "question": "What type of vehicles will be towed away?",
+      "correct": "unauthorized",
+      "prediction": "Question: What type of vehicles will be towed away?\nAnswer: unauthorized\nQuestion: What city has these rules?\nAnswer: San Diego\nQuestion: Is this",
+      "clean_prediction": "unauthorized"
+    },
+    {
+      "question": "Is this a male and female?",
+      "correct": "yes",
+      "prediction": "Question: Is this a male and female?\nAnswer: no\nQuestion: how many waterfowl are there?\nAnswer: 1\nQuestion: how many",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is the surfer entering the surf?",
+      "correct": "yes",
+      "prediction": "Question: Is the surfer entering the surf?\nAnswer: yes\nQuestion: are the waves crashing?\nAnswer: yes\nQuestion: is the surfing guy",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "Is this woman happy?",
+      "correct": "no",
+      "prediction": "Question: Is this woman happy?\nAnswer: yes\nQuestion: Is she playing on her phone?\nAnswer: no\nQuestion: Is she",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What time is it in the picture?",
+      "correct": "11:10",
+      "prediction": "Question: What time is it in the picture?\nAnswer: 7:13\nQuestion: What city is shown in the photo?\nAnswer: hol",
+      "clean_prediction": "7:13"
+    },
+    {
+      "question": "Is there a stop sign behind the vehicle?",
+      "correct": "yes",
+      "prediction": "Question: Is there a stop sign behind the vehicle?\nAnswer: no\nQuestion: where is the cyclist?\nAnswer: road\nQuestion: is there a wall",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is there a pickle?",
+      "correct": "no",
+      "prediction": "Question: Is there a pickle?\nAnswer: no\nQuestion: What color is the knife?\nAnswer: gray\nQuestion: Where is the",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What are the two types of transportation shown in this picture?",
+      "correct": "horse and motorcycle",
+      "prediction": "Question: What are the two types of transportation shown in this picture?\nAnswer: horse and bicycles\nQuestion: What is the name of this town?\nAnswer: london\nQuestion",
+      "clean_prediction": "horse and bicycles"
+    },
+    {
+      "question": "Is there a reflection in the microwave?",
+      "correct": "yes",
+      "prediction": "Question: Is there a reflection in the microwave?\nAnswer: no\nQuestion: What is the temperature?\nAnswer: 0\nQuestion: Is there a",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What color are the sinks?",
+      "correct": "white",
+      "prediction": "Question: What color are the sinks?\nAnswer: white\nQuestion: What are the sinks made out of?\nAnswer: ceramic\nQuestion: Are",
+      "clean_prediction": "white"
+    },
+    {
+      "question": "Is he on a slope?",
+      "correct": "yes",
+      "prediction": "Question: Is he on a slope?\nAnswer: yes\nQuestion: is this person skiing?\nAnswer: yes\nQuestion: are there ski tracks",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What kind of books are likely in the cabinet?",
+      "correct": "cookbooks",
+      "prediction": "Question: What kind of books are likely in the cabinet?\nAnswer: books\nQuestion: What is likely on the shelves?\nAnswer: bowls\nQuestion: What kind",
+      "clean_prediction": "books"
+    },
+    {
+      "question": "Is this person in a forest?",
+      "correct": "no",
+      "prediction": "Question: Is this person in a forest?\nAnswer: yes\nQuestion: is this a snowy area?\nAnswer: no\nQuestion: how much snow",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What color is the snow?",
+      "correct": "white",
+      "prediction": "Question: What color is the snow?\nAnswer: white\nQuestion: How many faces does the skier have?\nAnswer: 1\nQuestion:",
+      "clean_prediction": "white"
+    },
+    {
+      "question": "What is on the wall to the right?",
+      "correct": "painting",
+      "prediction": "Question: What is on the wall to the right?\nAnswer: picture\nQuestion: What is the pattern on the wall to the left?\nAnswer: floral pattern",
+      "clean_prediction": "picture"
+    },
+    {
+      "question": "What lane is the car in?",
+      "correct": "left",
+      "prediction": "Question: What lane is the car in?\nAnswer: second\n\nQuestion: What is on the sign below the Stop sign?\nAnswer: street number",
+      "clean_prediction": "second"
+    },
+    {
+      "question": "Is the elephant wild or in a zoo?",
+      "correct": "zoo",
+      "prediction": "Question: Is the elephant wild or in a zoo?\nAnswer: wild\nQuestion: Does it have food?\nAnswer: yes\nQuestion: Does it look happy",
+      "clean_prediction": "wild"
+    },
+    {
+      "question": "What are the orange slices of food?",
+      "correct": "carrots",
+      "prediction": "Question: What are the orange slices of food?\nAnswer: carrots\n\nQuestion: Are these food items of similar length and size?\nAnswer: no\n\nQuestion",
+      "clean_prediction": "carrots"
+    },
+    {
+      "question": "How many planes are there?",
+      "correct": "2",
+      "prediction": "Question: How many planes are there?\nAnswer: 3\nQuestion: How many images are there?\nAnswer: 1\nQuestion: Who",
+      "clean_prediction": "3"
+    },
+    {
+      "question": "How much rain has pooled on the bottom?",
+      "correct": "0",
+      "prediction": "Question: How much rain has pooled on the bottom?\nAnswer: 0\nQuestion: Are the rails wet?\nAnswer: yes\nQuestion: How many legs",
+      "clean_prediction": "0"
+    },
+    {
+      "question": "What type of animal is this?",
+      "correct": "giraffe",
+      "prediction": "Question: What type of animal is this?\nAnswer: giraffe\nQuestion: What is the animal standing on?\nAnswer: mud\nQuestion: Where is",
+      "clean_prediction": "giraffe"
+    },
+    {
+      "question": "Are these wax flowers?",
+      "correct": "no",
+      "prediction": "Question: Are these wax flowers?\nAnswer: yes\nQuestion: is the light blue?\nAnswer: no\nQuestion: is the plant shiny",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What is the zebra in the shade doing?",
+      "correct": "standing",
+      "prediction": "Question: What is the zebra in the shade doing?\nAnswer: nothing\n\nQuestion: How many stripes of black and white are on the body of the zebra in the",
+      "clean_prediction": "nothing"
+    },
+    {
+      "question": "Are the cows on a hill?",
+      "correct": "no",
+      "prediction": "Question: Are the cows on a hill?\nAnswer: no\nQuestion: how many dogs are in the photo?\nAnswer: 1\nQuestion:",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "How many pens are there?",
+      "correct": "2",
+      "prediction": "Question: How many pens are there?\nAnswer: 5\nQuestion: Does the pen light up?\nAnswer: no\nQuestion: What is",
+      "clean_prediction": "5"
+    },
+    {
+      "question": "Is someone using the mobile?",
+      "correct": "no",
+      "prediction": "Question: Is someone using the mobile?\nAnswer: no\nQuestion: Are there any power connections?\nAnswer: no\nQuestion: Is this a",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is there toilet paper in this room?",
+      "correct": "no",
+      "prediction": "Question: Is there toilet paper in this room?\nAnswer: no\nQuestion: What shape is the sink?\nAnswer: rectangular\nQuestion: What shape is",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What brand is the jacket?",
+      "correct": "north face",
+      "prediction": "Question: What brand is the jacket?\nAnswer: north face\nQuestion: What material is the jacket made out of?\nAnswer: leather\nQuestion",
+      "clean_prediction": "north face"
+    },
+    {
+      "question": "Is the man on the horse skinny?",
+      "correct": "yes",
+      "prediction": "Question: Is the man on the horse skinny?\nAnswer: no\nQuestion: Is the man on the horse young?\nAnswer: yes\nQuestion: Are",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Has any of the pizza been eaten?",
+      "correct": "yes",
+      "prediction": "Question: Has any of the pizza been eaten?\nAnswer: no\n\nQuestion: Is the pizza from an Italian restaurant?\nAnswer: no\n\nQuestion: Is",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What color is the cell phones buttons?",
+      "correct": "black",
+      "prediction": "Question: What color is the cell phones buttons?\nAnswer: blue\nQuestion: What is the name of the TV show on the tv?\nAnswer: t",
+      "clean_prediction": "blue"
+    },
+    {
+      "question": "Is the bus pulled over?",
+      "correct": "no",
+      "prediction": "Question: Is the bus pulled over?\nAnswer: no\nQuestion: is the driver dressed in a uniform?\nAnswer: yes\nQuestion: are",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is this a birthday cake?",
+      "correct": "yes",
+      "prediction": "Question: Is this a birthday cake?\nAnswer: no\nQuestion: is it a big cake?\nAnswer: yes\nQuestion: is this a",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is the man's head covered?",
+      "correct": "no",
+      "prediction": "Question: Is the man's head covered?\nAnswer: no\nQuestion: are there people walking along\nAnswer: yes\nQuestion: is someone walking into",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Are technology and nature fighting or working together artistically in this photo?",
+      "correct": "yes",
+      "prediction": "Question: Are technology and nature fighting or working together artistically in this photo?\nAnswer: working together\nQuestion: Is the sky cloudy or cloudy?\nAnswer: cloudy\nQuestion: Is",
+      "clean_prediction": "working together"
+    },
+    {
+      "question": "What type of drink is in the glass?",
+      "correct": "wine",
+      "prediction": "Question: What type of drink is in the glass?\nAnswer: coke\n\nQuestion: What kind of food is on the plates?\nAnswer: sandwich and salad",
+      "clean_prediction": "coke"
+    },
+    {
+      "question": "What color is the horse?",
+      "correct": "brown",
+      "prediction": "Question: What color is the horse?\nAnswer: brown\nQuestion: Does the horse have hooves?\nAnswer: no\nQuestion: What body",
+      "clean_prediction": "brown"
+    },
+    {
+      "question": "Should someone be crossing at the crosswalk?",
+      "correct": "no",
+      "prediction": "Question: Should someone be crossing at the crosswalk?\nAnswer: yes\nQuestion: Is this the night time?\nAnswer: yes\nQuestion: Does the person",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "Is there a phone on the wall?",
+      "correct": "no",
+      "prediction": "Question: Is there a phone on the wall?\nAnswer: no\nQuestion: what color is the toilet?\nAnswer: white\nQuestion: what color is",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Are the men wearing uniforms?",
+      "correct": "no",
+      "prediction": "Question: Are the men wearing uniforms?\nAnswer: no\nQuestion: Is this a public or retail space?\nAnswer: retail\nQuestion: Who",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Where is the broccoli?",
+      "correct": "above meat",
+      "prediction": "Question: Where is the broccoli?\nAnswer: plate\n\nQuestion: What color is the plate?\nAnswer: white\n\nQuestion: Is the plate",
+      "clean_prediction": "plate"
+    },
+    {
+      "question": "What kind of computer is that?",
+      "correct": "apple",
+      "prediction": "Question: What kind of computer is that?\nAnswer: laptop\n\nQuestion: How many computer monitors are there?\nAnswer: 2\n\nQuestion: Is",
+      "clean_prediction": "laptop"
+    },
+    {
+      "question": "Is there coffee in the cup?",
+      "correct": "no",
+      "prediction": "Question: Is there coffee in the cup?\nAnswer: no\nQuestion: Is something else in the cup?\nAnswer: no\nQuestion: Is there",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Could this photo be time-lapsed?",
+      "correct": "yes",
+      "prediction": "Question: Could this photo be time-lapsed?\nAnswer: no\nQuestion: How many lights are shown in the picture?\nAnswer: 6\nQuestion",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is there a knife or spoon on the plate?",
+      "correct": "spoon",
+      "prediction": "Question: Is there a knife or spoon on the plate?\nAnswer: yes\nQuestion: Is there fruit on the plate?\nAnswer: yes\nQuestion: Is the",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What is in the bowl?",
+      "correct": "fruit",
+      "prediction": "Question: What is in the bowl?\nAnswer: bananas\nQuestion: Are these fresh?\nAnswer: yes\nQuestion: Are these ripe?",
+      "clean_prediction": "bananas"
+    },
+    {
+      "question": "Is this a veggie pizza?",
+      "correct": "yes",
+      "prediction": "Question: Is this a veggie pizza?\nAnswer: yes\nQuestion: Is this a meat or veggie pizza?\nAnswer: vegetarian\n\nAnswer: a",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "How many White Street poles are there?",
+      "correct": "1",
+      "prediction": "Question: How many White Street poles are there?\nAnswer: 16\n\nQuestion: Is it daytime?\nAnswer: yes\n\nQuestion: Is it snowing",
+      "clean_prediction": "16"
+    },
+    {
+      "question": "Where is the lamp?",
+      "correct": "back corner",
+      "prediction": "Question: Where is the lamp?\nAnswer: behind the couch\nQuestion: What is the person wearing?\nAnswer: dress\nQuestion: What",
+      "clean_prediction": "behind the couch"
+    },
+    {
+      "question": "Is a couple in the image?",
+      "correct": "no",
+      "prediction": "Question: Is a couple in the image?\nAnswer: no\nQuestion: How many people are there in the picture?\nAnswer: 3\nQuestion",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "How many wheels does the truck have?",
+      "correct": "8",
+      "prediction": "Question: How many wheels does the truck have?\nAnswer: 6\nQuestion: Is the car next to the truck parked?\nAnswer: yes\nQuestion",
+      "clean_prediction": "6"
+    },
+    {
+      "question": "How many sesame seeds are on the sandwich bun?",
+      "correct": "0",
+      "prediction": "Question: How many sesame seeds are on the sandwich bun?\nAnswer: 0\nQuestion: Is there salt and pepper?\nAnswer: no\nQuestion: Is there",
+      "clean_prediction": "0"
+    },
+    {
+      "question": "What are the two street names?",
+      "correct": "easy st and park place",
+      "prediction": "Question: What are the two street names?\nAnswer: Maplewood street\nQuestion: What color are the front doors of the house?\nAnswer: red",
+      "clean_prediction": "Maplewood street"
+    },
+    {
+      "question": "What color are the flowers?",
+      "correct": "green",
+      "prediction": "Question: What color are the flowers?\nAnswer: pink\n\nQuestion: Who can you see behind the sign?\nAnswer: people\n\nQuestion: Are",
+      "clean_prediction": "pink"
+    },
+    {
+      "question": "What kind of animal is standing under the tree?",
+      "correct": "cow",
+      "prediction": "Question: What kind of animal is standing under the tree?\nAnswer: cow\nQuestion: What is sitting underneath the tree?\nAnswer: goat\nQuestion: How many",
+      "clean_prediction": "cow"
+    },
+    {
+      "question": "How many cars are parked?",
+      "correct": "many",
+      "prediction": "Question: How many cars are parked?\nAnswer: 3\nQuestion: What direction is the street facing?\nAnswer: east\nQuestion: What",
+      "clean_prediction": "3"
+    },
+    {
+      "question": "What does this animal like to eat?",
+      "correct": "hay",
+      "prediction": "Question: What does this animal like to eat?\nAnswer: hay\nQuestion: What does this animal have on its tail?\nAnswer: a tail\nQuestion",
+      "clean_prediction": "hay"
+    },
+    {
+      "question": "Is this a spa?",
+      "correct": "no",
+      "prediction": "Question: Is this a spa?\nAnswer: no\nQuestion: are there glass cabinets in the bathroom?\nAnswer: yes\nQuestion: is",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is the scooter on the left darker than the one on the right?",
+      "correct": "yes",
+      "prediction": "Question: Is the scooter on the left darker than the one on the right?\nAnswer: no\nQuestion: What time of day is it?\nAnswer: sunset\nQuestion: Is the",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Does that more likely belong to a man or a women?",
+      "correct": "man",
+      "prediction": "Question: Does that more likely belong to a man or a women?\nAnswer: male\nQuestion: When did this bag likely exist?\nAnswer: modern\nQuestion: What color",
+      "clean_prediction": "male"
+    },
+    {
+      "question": "How many people are visibly waiting for the train in the picture?",
+      "correct": "2",
+      "prediction": "Question: How many people are visibly waiting for the train in the picture?\nAnswer: 4\nQuestion: What type of train is this?\nAnswer: local train\nQuestion:",
+      "clean_prediction": "4"
+    },
+    {
+      "question": "Are there any clouds in the sky?",
+      "correct": "yes",
+      "prediction": "Question: Are there any clouds in the sky?\nAnswer: yes\nQuestion: how many kite boards are there?\nAnswer: 2\nQuestion: what",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "How many propellers do you see?",
+      "correct": "1",
+      "prediction": "Question: How many propellers do you see?\nAnswer: 2\nQuestion: What color is the plane?\nAnswer: black\nQuestion: Is this",
+      "clean_prediction": "2"
+    },
+    {
+      "question": "Where was this picture taken?",
+      "correct": "beach",
+      "prediction": "Question: Where was this picture taken?\nAnswer: beach\n\nQuestion: What is the weather like?\nAnswer: sunny\n\nQuestion: Who is the",
+      "clean_prediction": "beach"
+    },
+    {
+      "question": "IS IT 10:10?",
+      "correct": "yes",
+      "prediction": "Question: IS IT 10:10?\nAnswer: no\nQuestion: are the lights on\nAnswer: yes\nQuestion: are the candles lit",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What color is the boat?",
+      "correct": "orange",
+      "prediction": "Question: What color is the boat?\nAnswer: yellow\nQuestion: What is the weather?\nAnswer: foggy\nQuestion: What is going on",
+      "clean_prediction": "yellow"
+    },
+    {
+      "question": "What color is the pole?",
+      "correct": "green",
+      "prediction": "Question: What color is the pole?\nAnswer: red\nQuestion: What color are the man's glasses?\nAnswer: black\nQuestion:",
+      "clean_prediction": "red"
+    },
+    {
+      "question": "Are there any cars?",
+      "correct": "yes",
+      "prediction": "Question: Are there any cars?\nAnswer: yes\nQuestion: are there any motorcycles?\nAnswer: yes\nQuestion: is there ice cream",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "Where is the baby zebra?",
+      "correct": "laying down",
+      "prediction": "Question: Where is the baby zebra?\nAnswer: on the ground behind the fence\nQuestion: What is the baby zebra eating?\nAnswer: grass",
+      "clean_prediction": "on the ground behind the fence"
+    },
+    {
+      "question": "Where is the robot?",
+      "correct": "shelf",
+      "prediction": "Question: Where is the robot?\nAnswer: behind computer\nQuestion: Who is the owner of this desk?\nAnswer: man\nQuestion:",
+      "clean_prediction": "behind computer"
+    },
+    {
+      "question": "Is there more than one computer?",
+      "correct": "no",
+      "prediction": "Question: Is there more than one computer?\nAnswer: no\nQuestion: is there a remote in the picture?\nAnswer: yes\nQuestion: is",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What room is this?",
+      "correct": "bedroom",
+      "prediction": "Question: What room is this?\nAnswer: bedroom\nQuestion: Is the person a toddler?\nAnswer: yes\nQuestion: Does the person",
+      "clean_prediction": "bedroom"
+    },
+    {
+      "question": "Is there a shadow in the picture?",
+      "correct": "yes",
+      "prediction": "Question: Is there a shadow in the picture?\nAnswer: no\nQuestion: Is the dog holding a Frisbee?\nAnswer: yes\nQuestion: Where",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is there a drought?",
+      "correct": "yes",
+      "prediction": "Question: Is there a drought?\nAnswer: no\nQuestion: are there people in the water?\nAnswer: no\nQuestion: is there",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Which fruit is lying on top?",
+      "correct": "orange",
+      "prediction": "Question: Which fruit is lying on top?\nAnswer: orange\n\nQuestion: What is the color of the bananas?\nAnswer: yellow\n\nQuestion: What",
+      "clean_prediction": "orange"
+    },
+    {
+      "question": "Who would you call for more information?",
+      "correct": "carolina adventures",
+      "prediction": "Question: Who would you call for more information?\nAnswer: 962-4179 or campus recreation\nQuestion: What kind of sport is",
+      "clean_prediction": "962-4179 or campus recreation"
+    },
+    {
+      "question": "Is the man wearing a tank top?",
+      "correct": "no",
+      "prediction": "Question: Is the man wearing a tank top?\nAnswer: no\nQuestion: what is he doing?\nAnswer: dancing\nQuestion: is his leg on",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What animals are these?",
+      "correct": "elephants",
+      "prediction": "Question: What animals are these?\nAnswer: elephants\nQuestion: is it muddy?\nAnswer: yes\nQuestion: what is the color of",
+      "clean_prediction": "elephants"
+    },
+    {
+      "question": "How many people?",
+      "correct": "5",
+      "prediction": "Question: How many people?\nAnswer: 4\nQuestion: What are they eating?\nAnswer: food\nQuestion: Is the boy",
+      "clean_prediction": "4"
+    },
+    {
+      "question": "What does the man have in his right hand?",
+      "correct": "towel",
+      "prediction": "Question: What does the man have in his right hand?\nAnswer: bat\nQuestion: What sport does the man play?\nAnswer: tennis\nQuestion: What color",
+      "clean_prediction": "bat"
+    },
+    {
+      "question": "Is the candle lit on the table?",
+      "correct": "yes",
+      "prediction": "Question: Is the candle lit on the table?\nAnswer: yes\nQuestion: are people in the kitchen\nAnswer: no\nQuestion: are glasses around the",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "Is this the only cat in this house?",
+      "correct": "yes",
+      "prediction": "Question: Is this the only cat in this house?\nAnswer: yes\nQuestion: How many cats are in this photo?\nAnswer: 1\nQuestion:",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What is the picture on the \"notice\" sign?",
+      "correct": "truck",
+      "prediction": "Question: What is the picture on the \"notice\" sign?\nAnswer: a bicycle accident\nQuestion: How many people are standing on the balcony?\nAnswer: 1",
+      "clean_prediction": "a bicycle accident"
+    },
+    {
+      "question": "Is there graffiti?",
+      "correct": "yes",
+      "prediction": "Question: Is there graffiti?\nAnswer: no\nQuestion: Where is the man looking?\nAnswer: front\nQuestion: Is the traffic",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "How many people are pictured?",
+      "correct": "7",
+      "prediction": "Question: How many people are pictured?\nAnswer: 5\nQuestion: How many sets of skis are in this picture?\nAnswer: 3",
+      "clean_prediction": "5"
+    },
+    {
+      "question": "What color are the leaves?",
+      "correct": "green",
+      "prediction": "Question: What color are the leaves?\nAnswer: green\nQuestion: What does the sign say?\nAnswer: chemin du letsay\nQuestion:",
+      "clean_prediction": "green"
+    },
+    {
+      "question": "Are there green veggies on her pizza?",
+      "correct": "no",
+      "prediction": "Question: Are there green veggies on her pizza?\nAnswer: yes\nQuestion: Are there onions on her pizza?\nAnswer: yes\nQuestion: Is her",
+      "clean_prediction": "yes"
+    },
+    {
+      "question": "What is the baby sitting on?",
+      "correct": "high chair",
+      "prediction": "Question: What is the baby sitting on?\nAnswer: wooden chair\nQuestion: What is the little girl wearing?\nAnswer: bib\nQuestion: What",
+      "clean_prediction": "wooden chair"
+    },
+    {
+      "question": "Is this picture in America?",
+      "correct": "no",
+      "prediction": "Question: Is this picture in America?\nAnswer: no\nQuestion: Who is the woman in the photo?\nAnswer: woman\nQuestion: What",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "Is this animal comfortable?",
+      "correct": "yes",
+      "prediction": "Question: Is this animal comfortable?\nAnswer: no\nQuestion: Is this cat old?\nAnswer: no\nQuestion: Is this cat young",
+      "clean_prediction": "no"
+    },
+    {
+      "question": "What type of  external media storage does this device support?",
+      "correct": "none",
+      "prediction": "Question: What type of  external media storage does this device support?\nAnswer: u disc\nQuestion: Where is the power button?\nAnswer: on top\nQuestion: Is",
+      "clean_prediction": "u disc"
+    },
+    {
+      "question": "What are these people doing?",
+      "correct": "wii",
+      "prediction": "Question: What are these people doing?\nAnswer: dancing\nQuestion: What are they wearing?\nAnswer: uniforms\nQuestion: What kind of chairs",
+      "clean_prediction": "dancing"
+    },
+    {
+      "question": "What is on the fence?",
+      "correct": "nothing",
+      "prediction": "Question: What is on the fence?\nAnswer: baseballs\nQuestion: What does the boy have on his head?\nAnswer: helmet\nQuestion",
+      "clean_prediction": "baseballs"
+    },
+    {
+      "question": "How many horses are in the photo?",
+      "correct": "0",
+      "prediction": "Question: How many horses are in the photo?\nAnswer: 0\nQuestion: What type of board is the man riding?\nAnswer: surfboard\nQuestion",
+      "clean_prediction": "0"
+    },
+    {
+      "question": "What is the person on the skateboard doing?",
+      "correct": "jumping",
+      "prediction": "Question: What is the person on the skateboard doing?\nAnswer: skateboarding\nQuestion: What color is the skateboard?\nAnswer: black and red\nQuestion: What",
+      "clean_prediction": "skateboarding"
+    },
+    {
+      "question": "Is the bike on the floor or on the bed?",
+      "correct": "floor",
+      "prediction": "Question: Is the bike on the floor or on the bed?\nAnswer: on the floor\nQuestion: How many bikes?\nAnswer: 1\nQuestion: What brand",
+      "clean_prediction": "on the floor"
+    },
+    {
+      "question": "Was the photo taken inside or outside the enclosure?",
+      "correct": "outside",
+      "prediction": "Question: Was the photo taken inside or outside the enclosure?\nAnswer: outside\nQuestion: Is the enclosure in a zoo?\nAnswer: yes\nQuestion: Is the",
+      "clean_prediction": "outside"
+    },
+    {
+      "question": "How many black zebra stripes?",
+      "correct": "50",
+      "prediction": "Question: How many black zebra stripes?\nAnswer: 3\nQuestion: Which direction is the mother looking?\nAnswer: left\nQuestion: Which",
+      "clean_prediction": "3"
+    }
+  ]
+}
